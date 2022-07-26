@@ -127,18 +127,4 @@ ul {
 }
 
 
-@media (min-width: 640px) {
- 
-    .product-img {
-        height: 100%;
-    }
-
-    .container p {
-        margin-bottom: 1rem;
-
-    }
-
-}
-
-
 
