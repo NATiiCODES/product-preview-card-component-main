@@ -47,6 +47,10 @@ ul {
     list-style-type: none;
 }
 
+.paragraph {
+    margin-right: 3rem;
+}
+
 .price  {
     color: hsl(158, 36%, 37%);
     font-size: 30px;
@@ -80,7 +84,7 @@ ul {
     display: inline-block;
     font-family: inherit;
     text-align: center;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 60px 10px 60px;
 
 }
 
@@ -116,6 +120,7 @@ ul {
     float: left;
     margin: auto 0 auto 0;
     max-width: 50%;
+    margin-right: 2rem;
     border-bottom-left-radius: 15px;
     border-top-left-radius: 15px;
 
