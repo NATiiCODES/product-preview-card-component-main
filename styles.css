@@ -21,11 +21,6 @@ h1, .price {
 }
 
 h1{
-    color: hsl(212, 21%, 14%);
-
-}
-
-h2 {
     text-transform: uppercase;
     font-size: 0.8rem;
     font-weight: 500;
@@ -33,7 +28,11 @@ h2 {
     letter-spacing: 1em;
     padding-top: 10px;
     letter-spacing: 0.2rem;
-    
+}
+
+h2 {
+    color: hsl(212, 21%, 14%);
+
 }
 
 p {
@@ -47,7 +46,7 @@ ul {
     list-style-type: none;
 }
 
-.paragraph {
+.contont {
     margin-right: 3rem;
 }
 
